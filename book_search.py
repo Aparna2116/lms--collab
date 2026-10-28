@@ -1,6 +1,6 @@
 
 # book_search.py (Student A - Issue #1)
-
+# Sample book records used by the book search module.
 BOOKS = [
     {"title": "Software Engineering", "author": "Ian Sommerville"},
     {
