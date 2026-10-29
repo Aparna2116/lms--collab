@@ -1,2 +1,2 @@
-# \# LMS Collab – Library Management System (Aparna, Akshay, Darsan)
+# LMS Collab – Library Management System – S7 CSE Lab Project
 
